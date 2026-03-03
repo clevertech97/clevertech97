@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@clevertech97" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Mr%20Unique%20Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-Mr%20anonymous%20user-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://t.me/+255794469700" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -98,7 +98,7 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 
 <p align="center">
   <a href="https://www.youtube.com/@clevertech97">
-    <img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-clevertech97-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://t.me/+255794469700">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
