@@ -1,31 +1,32 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=Clever%20Tech&fontSize=55&fontColor=00ff00&animation=fade&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=260&section=header&text=Clever%20Tech&fontSize=60&fontColor=00ff00&animation=fade&fontAlignY=40"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Android+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast;Building+Bots+and+Apps"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Android+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast;Building+Bots+and+Apps;Future+Security+Engineer"/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk3Y3Bkb3J3OXZqY2p5dGR0YjV1cHVkZGRxN2ZkMWk0Y2h4dHRvbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <h1 align="center">⚡ BLACK HAT BOT DEVELOPER ⚡</h1>
 
 <p align="center">
-Cybersecurity • Bots • Android Development • Web Development
+Cybersecurity • Bots • Android • Web Development
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-* 👤 **Name:** Clever Tech
-* 🤖 Creator of **Black Hat Bot**
-* 📱 Android Application Developer
-* 🌐 Web Developer
-* 🔐 Cybersecurity Enthusiast
-* 🎥 Tech Content Creator
+```bash
+> Name: Clever Tech
+> Role: Developer / Bot Engineer
+> Focus: Android, Web, Bots, Cybersecurity
+> Creator: Black Hat Bot
+> Learning: Advanced Security & Automation
+```
 
 ---
 
@@ -33,7 +34,7 @@ Cybersecurity • Bots • Android Development • Web Development
 
 ## 🤖 Black Hat Bot
 
-A powerful **Multi Device WhatsApp Bot** built with:
+Powerful **Multi Device WhatsApp Bot** built with:
 
 * Baileys
 * Node.js
@@ -45,17 +46,28 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 💻 Tech Stack
+# 🧠 Developer Quote
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,nodejs,html,css,firebase,git,linux"/>
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
 
 </p>
 
 ---
 
-# ⚙ Tools I Use
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,nodejs,html,css,firebase,git,linux,bash"/>
+
+</p>
+
+---
+
+# ⚙ Tools
 
 <p align="center">
 
@@ -65,7 +77,7 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Advanced GitHub Stats
 
 <p align="center">
 
@@ -83,7 +95,7 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 📈 Activity Graph
+# 📈 Coding Activity
 
 <p align="center">
 
@@ -97,7 +109,7 @@ https://github.com/clevertech97/blackhatbotmd
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=matrix&no-frame=true&row=1&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=matrix&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -113,7 +125,7 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 👀 Profile Visitors
+# 👁 Profile Visitors
 
 <p align="center">
 
@@ -157,10 +169,10 @@ https://github.com/clevertech97/blackhatbotmd
 
 <p align="center">
 
-⚡ *Coding in the Dark — Building Bots — Learning Cybersecurity* ⚡
+⚡ Coding in the Dark • Building Bots • Learning Cybersecurity ⚡
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=130&section=footer"/>
 </p>
