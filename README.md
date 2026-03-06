@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;I'm+Clever+Tech;Android+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=Clever%20Tech&fontSize=55&fontColor=00ff00&animation=fade&fontAlignY=40"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Android+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast;Building+Bots+%26+Apps"/>
 </p>
 
 <h1 align="center">⚡ BLACK HAT BOT DEVELOPER ⚡</h1>
@@ -21,17 +25,17 @@ Cybersecurity • Bots • Android Development • Web Development
 
 ---
 
-# 🚀 Main Project
+# 🚀 Featured Project
 
 ## 🤖 Black Hat Bot
 
-Powerful **Multi Device WhatsApp Bot** built using:
+A powerful **Multi Device WhatsApp Bot** built using:
 
 * **Baileys**
 * **Node.js**
 * **JavaScript**
 
-Repository:
+Repository
 
 https://github.com/clevertech97/blackhatbotmd
 
@@ -47,17 +51,17 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# ⚙ Tools
+# ⚙ Development Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,linux"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -85,11 +89,11 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=matrix&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=matrix&no-frame=true&row=1&margin-w=15"/>
 
 </p>
 
@@ -115,7 +119,7 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -135,8 +139,24 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
+# ⭐ GitHub Support
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/clevertech97?style=for-the-badge&color=00ff00&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/clevertech97?style=for-the-badge&color=00ff00&labelColor=000000"/>
+
+</p>
+
+---
+
 <p align="center">
 
 ⚡ *Coding in the Dark — Building Bots — Learning Cybersecurity* ⚡
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
 </p>
