@@ -1,50 +1,43 @@
-[![SVG Banner](https://svg-banners.vercel.app/api?type=luminance\&text1=BLACK%20HAT%20BOT\&width=1000\&height=200)](https://github.com/clevertech97)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;I'm+Clever+Tech;Android+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast" />
+</p>
 
-<h1 align="center">Hi 👋 I'm Clever Tech</h1>
-
-<h3 align="center">
-Android Developer • Web Developer • WhatsApp Bot Developer • Cybersecurity Enthusiast
-</h3>
+<h1 align="center">⚡ BLACK HAT BOT DEVELOPER ⚡</h1>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=00FF99&center=true&width=900&height=100&lines=Android+Developer;Web+Developer;WhatsApp+Bot+Developer;Cybersecurity+Enthusiast;Content+Creator"/>
-
+Cybersecurity • Bots • Android Development • Web Development
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-* 🤖 Creator of **Black Hat Bot (Multi Device WhatsApp Bot)**
-* 🎥 Tech Content Creator on **YouTube**
-* 💻 Passionate about **Programming & Cybersecurity**
-* 📱 Android App Developer
-* 🌱 Always learning new technologies
+* 👤 **Name:** Clever Tech
+* 🤖 **Creator:** Black Hat Bot
+* 📱 Android Application Developer
+* 🌐 Web Developer
+* 🔐 Cybersecurity Enthusiast
+* 🎥 Tech Content Creator
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Main Project
 
-<p align="center">
+## 🤖 Black Hat Bot
 
-<a href="https://www.youtube.com/@clevertech97">
-<img src="https://img.shields.io/badge/YouTube-clevertech97-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+Powerful **Multi Device WhatsApp Bot** built using:
 
-<a href="https://t.me/clevertech97">
-<img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+* **Baileys**
+* **Node.js**
+* **JavaScript**
 
-<a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X">
-<img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+Repository:
 
-</p>
+https://github.com/clevertech97/blackhatbotmd
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -54,45 +47,29 @@ Android Developer • Web Developer • WhatsApp Bot Developer • Cybersecurity
 
 ---
 
-# 🚀 Featured Project
-
-## 🤖 Black Hat Bot
-
-A powerful **Multi-Device WhatsApp Bot** built using **Baileys + Node.js**
-
-✨ Features:
-
-* Multi Device Support
-* Fast Commands
-* Group Management
-* Automation Tools
-* Easy Deployment
-
-🔗 Repository
-
-https://github.com/clevertech97/blackhatbotmd
+# ⚙ Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/BOT-ONLINE-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=clevertech97&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=clevertech97&show_icons=true&theme=chartreuse-dark"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clevertech97&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clevertech97&theme=chartreuse-dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevertech97&layout=compact&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevertech97&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -102,27 +79,17 @@ https://github.com/clevertech97/blackhatbotmd
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clevertech97&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clevertech97&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=clevertech97&label=PROFILE+VIEWS&color=blue&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=clevertech97&theme=matrix&no-frame=true&row=1"/>
 
 </p>
 
@@ -138,8 +105,38 @@ https://github.com/clevertech97/blackhatbotmd
 
 ---
 
+# 👀 Profile Visitors
+
 <p align="center">
 
-✨ Building Bots • Creating Apps • Learning Cybersecurity ✨
+<img src="https://komarev.com/ghpvc/?username=clevertech97&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.youtube.com/@clevertech97">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/clevertech97">
+<img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⚡ *Coding in the Dark — Building Bots — Learning Cybersecurity* ⚡
 
 </p>
